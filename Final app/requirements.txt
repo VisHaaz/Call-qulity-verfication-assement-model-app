@@ -1,0 +1,8 @@
+whisper
+re
+nltk
+pandas
+torch
+tkinter
+dill
+numpy
